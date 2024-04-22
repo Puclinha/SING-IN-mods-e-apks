@@ -1,0 +1,17 @@
+.Cabeçalho{
+    background-color: #001aff;
+    color: rgb(255, 255, 255)
+    
+}
+.Instagram{
+    width: 5%;
+    display:flex
+}
+.Whatsapp{
+    width: 5%;
+
+}
+.Email{
+    width: 5%;
+
+}
